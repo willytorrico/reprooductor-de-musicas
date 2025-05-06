@@ -1,18 +1,23 @@
-# **API de musica** 
+# **REPRODUCTOR MASTER** 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.logoai.com/uploads/output/2025/04/19/9648be6127fc1f9ee18b4d492798fa16.jpg" width="400" alt="Laravel Logo"></a></p>
 
 <p>
-    API de musica creada con el framework de PHP Laravel. 
+   REPRODUCTOR DE MUSICA EN DESARRLO
 </p>
 <p>
-    Esta API de música ha sido desarrollada para ofrecer una amplia gama de funcionalidades relacionadas con la gestión de música. Con ella, puedes acceder a una gran cantidad de datos musicales, como canciones, álbumes, artistas y generos, y realizar diversas operaciones sobre ellos.
+    este proyecto esta en desarrollo hecho por unos estudiantes de la UPDS. En este proyecto hyacemos el uso de la base dedatos y hacvemos el uso de modelos y controladores. dejaremos publico el p´royecto pára que lo puedan descargar y probar-
 </p>
 <p>
     Gracias a su integración con el framework de PHP, esta API es altamente flexible y escalable, lo que la hace ideal para proyectos de cualquier tamaño. Ya sea que estés construyendo una aplicación de streaming de música, un reproductor en línea o una plataforma de descubrimiento musical, esta API te proporcionará las herramientas necesarias para llevar tu proyecto al siguiente nivel.
 </p>
 
 # **Autenticaciòn**
+
+## **Base de datos**
+la base de datoa la pueden usar mnigrando con php artisan estas son las clases o migraciones que usasmos
+
+![image](https://github.com/user-attachments/assets/492fe452-d23c-4a78-b780-01dc0004d773)
 
 ## **Registro de usuario**
 Este endpoint crea un nuevo usuario con los datos que se especifica en la request.
