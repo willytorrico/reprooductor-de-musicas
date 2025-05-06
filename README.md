@@ -1,6 +1,6 @@
 # **API de musica** 
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://www.logoai.com/uploads/output/2025/04/19/9648be6127fc1f9ee18b4d492798fa16.jpg)" width="400" alt="Laravel Logo"></a></p>
 
 <p>
     API de musica creada con el framework de PHP Laravel. 
