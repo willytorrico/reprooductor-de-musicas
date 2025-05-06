@@ -1,9 +1,9 @@
 # **REPRODUCTOR MASTER** 
 
 <p align="center"><a href="https://laravel.com" target="_blank">
-    ![image](https://github.com/user-attachments/assets/82e1b2c0-ef4b-4869-bfa7-07d894319692)
+    
 
-</a></p>
+</a>![image](https://github.com/user-attachments/assets/82e1b2c0-ef4b-4869-bfa7-07d894319692)</p>
 
 <p>
    REPRODUCTOR DE MUSICA EN DESARRLO
