@@ -1,6 +1,9 @@
 # **REPRODUCTOR MASTER** 
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.logoai.com/uploads/output/2025/04/19/9648be6127fc1f9ee18b4d492798fa16.jpg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank">
+    ![image](https://github.com/user-attachments/assets/82e1b2c0-ef4b-4869-bfa7-07d894319692)
+
+</a></p>
 
 <p>
    REPRODUCTOR DE MUSICA EN DESARRLO
